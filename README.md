@@ -18,7 +18,10 @@ As the neural network is training and testing, a graph of the actual stock price
 
 ## Result
 
-![](stock_run.mp4)
+![](https://user-images.githubusercontent.com/30897989/118402064-9950de80-b668-11eb-9fb6-311562e2082a.mp4)
+
+
+
 
 ---
 Final Project done for CSC 158 at Hofstra University
